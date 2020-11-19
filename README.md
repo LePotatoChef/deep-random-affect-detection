@@ -25,6 +25,9 @@ TBD
 
 ## References
 [1]Botelho, Anthony & Baker, Ryan & Heffernan, Neil. (2018). Improving Sensor-Free Affect Detection Using Deep Learning. 10.1007/978-3-319-61425-0_4.
+
 [2]Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013) Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. Proceedings of the 3rd International Conference on Learning Analytics and Knowledge, 117-124
+
 [3]Wieting, J., & Kiela, D. (2019). No Training Required: Exploring Random Encoders for Sentence Classification. ArXiv, abs/1901.10444.
+
 [4]T. M. Cover, "Geometrical and Statistical Properties of Systems of Linear Inequalities with Applications in Pattern Recognition," in IEEE Transactions on Electronic Computers, vol. EC-14, no. 3, pp. 326-334, June 1965, doi: 10.1109/PGEC.1965.264137.
