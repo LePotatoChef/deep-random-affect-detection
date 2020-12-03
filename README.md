@@ -21,8 +21,40 @@ We trained each model with the data we collected from ASSISTments in the first s
 We demonstrate the utility of our model by comparing the roc-auc, Kappa, and training time of our method to the previously published methods. If we can achieve higher roc-auc and Kappa scores, or if we can achieve faster training time, we will consider this method a success. 
 
 ## Results
-TBD
 
+### Plots
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_expert_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_expert_kappa.png" width="400" height="300">
+</p>
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_raw_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_raw_kappa.png" width="400" height="300">
+</p>
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_expert_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_expert_kappa.png" width="400" height="300">
+</p>
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_raw_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_raw_kappa.png" width="400" height="300">
+</p>
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_expert_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_expert_kappa.png" width="400" height="300">
+</p>
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_raw_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_raw_kappa.png" width="400" height="300">
+</p>
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_expert_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_expert_kappa.png" width="400" height="300">
+</p>
+<p float="left">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_auc.png" width="400" height="300">
+<img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_kappa.png" width="400" height="300">
+</p>
 ## References
 [1]Botelho, Anthony & Baker, Ryan & Heffernan, Neil. (2018). Improving Sensor-Free Affect Detection Using Deep Learning. 10.1007/978-3-319-61425-0_4.
 
