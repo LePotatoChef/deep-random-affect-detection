@@ -55,7 +55,9 @@ We demonstrate the utility of our model by comparing the roc-auc, Kappa, and tra
 <img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_auc.png" width="400" height="300">
 <img src="https://github.com/Ethanprihar/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_kappa.png" width="400" height="300">
 </p>
+
 ## References
+
 [1]Botelho, Anthony & Baker, Ryan & Heffernan, Neil. (2018). Improving Sensor-Free Affect Detection Using Deep Learning. 10.1007/978-3-319-61425-0_4.
 
 [2]Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013) Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. Proceedings of the 3rd International Conference on Learning Analytics and Knowledge, 117-124
