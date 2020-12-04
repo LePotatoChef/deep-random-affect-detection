@@ -24,36 +24,36 @@ We demonstrate the utility of our model by comparing the roc-auc, Kappa, and tra
 
 ### Plots
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_expert_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_expert_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_expert_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_expert_kappa.png" width="400" height="300">
 </p>
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_raw_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_raw_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_raw_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/bilstm_raw_kappa.png" width="400" height="300">
 </p>
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_expert_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_expert_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_expert_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_expert_kappa.png" width="400" height="300">
 </p>
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_raw_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_raw_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_raw_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/borep_raw_kappa.png" width="400" height="300">
 </p>
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_expert_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_expert_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_expert_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_expert_kappa.png" width="400" height="300">
 </p>
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_raw_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_raw_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_raw_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/esn_raw_kappa.png" width="400" height="300">
 </p>
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_expert_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_expert_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_expert_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_expert_kappa.png" width="400" height="300">
 </p>
 <p float="left">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_auc.png" width="400" height="300">
-<img src="https://github.com/leootatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_kappa.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_auc.png" width="400" height="300">
+<img src="https://github.com/lepotatochef/deep-random-affect-detection/blob/main/ethan/clean/plots/random/lstm_raw_kappa.png" width="400" height="300">
 </p>
 
 ## References
